@@ -2,7 +2,7 @@
 
 ## Algorithms:
 
-- [] Linear search
+- [x] Linear search
 - [] Binary search
 - [] Bubble sort
 - [] Selection sort
