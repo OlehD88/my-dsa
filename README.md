@@ -6,4 +6,8 @@
 - [x] Binary search
 - [x] Bubble sort
 - [x] Selection sort
-- [] Insertion sort
+- [x] Insertion sort
+
+## Data Structures
+
+- [x] Hash Table
