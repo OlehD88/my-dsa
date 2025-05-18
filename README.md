@@ -3,7 +3,7 @@
 ## Algorithms:
 
 - [x] Linear search
-- [] Binary search
-- [] Bubble sort
+- [x] Binary search
+- [x] Bubble sort
 - [] Selection sort
 - [] Insertion sort
