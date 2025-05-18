@@ -5,5 +5,5 @@
 - [x] Linear search
 - [x] Binary search
 - [x] Bubble sort
-- [] Selection sort
+- [x] Selection sort
 - [] Insertion sort
