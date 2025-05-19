@@ -11,3 +11,5 @@
 ## Data Structures
 
 - [x] Hash Table
+- [x] Stack (with array inside)
+- [ ] Queue (with array inside)
