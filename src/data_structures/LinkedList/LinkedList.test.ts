@@ -89,4 +89,14 @@ describe('Linked List', () => {
 		expect(list.search(30)).toEqual(1)
 		expect(list.search(50)).toEqual(-1)
 	})
+
+	it('Should reverse linked list', () => {
+		const list = new LinkedList()
+		list.insertToHead(10)
+		list.insertToTail(20)
+		list.insert(30, 1)
+		list.reverse()
+
+		expect(list.toArray()).toEqual([20, 30, 10])
+	})
 })

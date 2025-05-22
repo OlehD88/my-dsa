@@ -165,4 +165,21 @@ export class LinkedList<T> {
 
 		return -1
 	}
+
+	public reverse() {
+		if (this.length === 0) return
+
+		let previousNode = undefined
+		let currentNode = this.head
+
+		while (currentNode) {
+			let nextNode = currentNode.next
+
+			currentNode.next = previousNode
+			previousNode = currentNode
+			currentNode = nextNode
+		}
+
+		this.head = previousNode
+	}
 }
