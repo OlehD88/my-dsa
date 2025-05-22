@@ -14,3 +14,5 @@
 - [x] Hash Table
 - [x] Stack (with array inside)
 - [x] Queue (with array inside)
+- [x] Linked List
+- [x] Doubly Linked List
