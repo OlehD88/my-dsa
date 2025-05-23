@@ -16,3 +16,4 @@
 - [x] Queue (with array inside)
 - [x] Linked List
 - [x] Doubly Linked List
+- [x] Binary Tree
